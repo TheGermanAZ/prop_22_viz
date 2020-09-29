@@ -1,5 +1,5 @@
 
-from api import consumer_key, consumer_secret, access_token, access_secret
+from secret import consumer_key, consumer_secret, access_token, access_secret
 import tweepy
 
 # auth settings
